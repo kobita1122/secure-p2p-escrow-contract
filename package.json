@@ -1,0 +1,8 @@
+{
+  "name": "secure-p2p-escrow",
+  "version": "1.0.0",
+  "description": "Smart contract for secure P2P trades with arbiter logic",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
